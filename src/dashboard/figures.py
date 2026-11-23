@@ -100,7 +100,7 @@ def risk_gauge(probability: float, level: str) -> go.Figure:
                    dict(range=[med, high], color=theme.RISK_TINT["Medium"]),
                    dict(range=[high, 100], color=theme.RISK_TINT["High"])],
         )))
-    fig.update_layout(height=210, margin=dict(l=25, r=25, t=10, b=0), font=FONT,
+    fig.update_layout(height=220, margin=dict(l=45, r=55, t=20, b=10), font=FONT,
                       paper_bgcolor="rgba(0,0,0,0)")
     return fig
 
