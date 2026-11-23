@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-D946EF)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-EC4899)
 
-> **Live demo:** _add your Streamlit Community Cloud link here_ · **Key results:** [docs/RESULTS.md](docs/RESULTS.md)
+> **Live app:** [customer-360-kalai.streamlit.app](https://customer-360-kalai.streamlit.app/) (the first visit after a quiet period can take a minute while the app wakes up) · **Key results:** [docs/RESULTS.md](docs/RESULTS.md)
 
 Customer360 AI helps a subscription business answer six questions: **who** its customers are, **which** are valuable, **who is likely to leave**, **why**, **which groups need attention**, and **what to do about it**. It covers the full analytics lifecycle, from raw data to a prioritised retention call list, in an interactive dashboard that a non-technical visitor can understand.
 
