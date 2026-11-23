@@ -1,0 +1,31 @@
+# Customer360 AI theme: Dark Plum-Charcoal + Violet/Magenta + Warm Coral/Amber.
+# Values mirror config/theme.py (the single source of truth for colours).
+[theme]
+base = "dark"
+primaryColor = "#9333EA"
+backgroundColor = "#18111E"
+secondaryBackgroundColor = "#2A1C35"
+textColor = "#F8FAFC"
+font = "sans serif"
+borderColor = "#3A2A47"
+linkColor = "#D946EF"
+baseRadius = "0.75rem"
+# Status colours used by alerts, deltas and badges, mapped onto the palette
+redColor = "#FB7185"
+orangeColor = "#FB923C"
+yellowColor = "#FBBF24"
+blueColor = "#9333EA"
+greenColor = "#D946EF"
+violetColor = "#9333EA"
+
+[theme.sidebar]
+backgroundColor = "#22162B"
+secondaryBackgroundColor = "#2A1C35"
+borderColor = "#3A2A47"
+
+[server]
+headless = true
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
